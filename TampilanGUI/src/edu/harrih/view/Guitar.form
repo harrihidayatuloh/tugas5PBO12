@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="38" green="85" red="c2" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="jButton1" min="-2" pref="37" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="153" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="0" pref="177" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jScrollPane1" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="235" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="118" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="jButton1" min="-2" pref="29" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="73" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" pref="186" max="32767" attributes="0"/>
+                  <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="15" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="SEJARAH ALAT MUSIK GUITAR"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\ASUS\Desktop\Electric-Guitar-02.png"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="Kata &#x2018;gitar&#x2019; atau guitar dalam bahasa Inggris, pada &#xa;mulanya diambil dari nama alat musik petik kuno di &#xa;wilayah Persia pada kira-kira tahun 1500 SM yang &#xa;dikenal sebagai citar atau sehtar. Alat musik ini &#xa;kemudian berkembang menjadi berbagai macam model &#xa;gitar kuno yang dikenal dengan istilah umum tanbur. &#xa;Pada tahun 300 SM Tanbur Persia dikembangkan oleh &#xa;bangsa Yunani dan enam abad kemudian oleh bangsa Romawi &#xa;(Bellow, 1970:54-55). Pada tahun 476M alat musik ini&#xa; dibawa oleh bangsa Romawi ke Spanyol dan bertransformasi &#xa;menjadi: (1) guitarra Morisca yang berfungsi sebagai&#xa; pembawa melodi, dan (2) Guitarra Latina untuk memainkan &#xa;akor. Tiga abad kemudian bangsa Arab membawa semacam&#xa; gitar gambus dengan sebutan al ud ke Spanyol &#xa;(Summerfield, 1982:12). Berdasarkan konstruksi al ud&#xa;Arab dan kedua model gitar dari Romawi tersebut, &#xa;bangsa Spanyol kemudian membuat alat musiknya &#xa;sendiri yang disebut vihuela. Sebagai hasilnya, vihuela&#xa; menjadi populer di Spanyol sementara alat-alat musik &#xa;pendahulunya sedikit demi sedikit ditinggalkan. &#xa;Walaupun demikian al ud dibawa orang ke negara-negara&#xa;Eropa Barat dan menyaingi popularitas vihuela di Spanyol. &#xa;Di Eropa al ud disambut dengan baik dan berkembang &#xa;menjadi berbagai model lute Eropa hingga kira-kira &#xa;akhir abad ke-17. Sementara itu vihuela berkembang &#xa;terus menjadi berbagai macam gitar selama berabad-&#xa;abad hingga akhirnya menjadi gitar klasik yang digunakan&#xa; pada saat ini.&#xa;&#xa;Keaslian gitar tidak dapat dilihat dari keantikannya. &#xa;Beberapa ahli merasa alat ini berasal dari benua Afrika, &#xa;di mana banyak replika modern dalam bentuk kotak bulat &#xa;seperti kulit kerang dengan Gut / benang benang sutera, &#xa;di banyak daerah benua itu. Ahli lain menemukan alat ini&#xa;dalam bentuk kaca di relief relief batu tua di zaman Asia&#xa; Tengah dan Asia Kuno. Bahan pemikiran lain juga timbul &#xa;dengan ditemukannya vas vas Yunani Kuno yang bercorak. &#xa;Greek Strings mungkin adalah alat pertama yang dikatagori&#xa;kan sebagai gitar. Gitar modern kemungkinan berakar dari &#xa;gitar Spanyol, tetapi berbagai jenis gitar seperti &#xa;instrumen instrumen yang kita bisa saksikan dilukisan &#xa;lukisan pada zaman Medieval dan Renaiassance yang banyak &#xa;terdapat diseluruh Eropa"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="38" green="85" red="c2" type="rgb"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="38" green="85" red="c2" type="rgb"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\ASUS\Desktop\Previous.png"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
